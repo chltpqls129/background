@@ -15,3 +15,4 @@ function setcolor() {
 
 color1.addEventListener("input", setcolor);
 color2.addEventListener("input", setcolor);
+// js git add
